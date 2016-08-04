@@ -1,0 +1,38 @@
+_repo: The-Eve-of-the-Revolution--A-Chronicle-of-the-Breach-with-England_3093
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Becker, Carl L. (Carl Lotus)
+    birthdate: 1873
+    deathdate: 1945
+    gutenberg_agent_id: '1111'
+    url: http://www.gutenberg.org/2009/agents/1111
+    wikipedia: http://en.wikipedia.org/wiki/Carl_L._Becker
+  editor:
+    agent_name: Johnson, Allen
+    birthdate: 1870
+    deathdate: 1931
+    gutenberg_agent_id: '1084'
+    url: http://www.gutenberg.org/2009/agents/1084
+    wikipedia: http://en.wikipedia.org/wiki/Allen_Johnson_(historian)
+description: ''
+gutenberg_bookshelf:
+- Children's History
+- United States
+gutenberg_issued: '2002-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3093'
+language: en
+publication_note: '[S.l. :  s.n.,  1918]'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Chronicles of America series; v. 11
+subjects:
+- !lcsh 'United States -- History -- Revolution, 1775-1783'
+- !lcc 'E201'
+- !lcsh 'United States -- Politics and government -- 1775-1783'
+- GITenberg
+title: The Eve of the Revolution; A Chronicle of the Breach with England
+url: http://www.gutenberg.org/ebooks/3093
